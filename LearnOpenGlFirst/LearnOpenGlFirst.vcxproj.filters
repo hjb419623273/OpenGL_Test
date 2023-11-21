@@ -49,9 +49,6 @@
     <ClCompile Include="..\src\glad.c">
       <Filter>glfw</Filter>
     </ClCompile>
-    <ClCompile Include="stencil_testing.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="blending_sorted.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
