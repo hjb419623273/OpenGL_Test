@@ -1,3 +1,7 @@
-﻿LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+﻿  blending_sorted.cpp
+d:\learnopengl\learnproject\learnopenglfirst\learnopenglfirst\blending_sorted.cpp(66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\learnopengl\learnproject\learnopenglfirst\learnopenglfirst\blending_sorted.cpp(67): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\learnopengl\learnproject\learnopenglfirst\learnopenglfirst\blending_sorted.cpp(247): warning C4305: “参数”: 从“double”到“GLfloat”截断
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
   LearnOpenGlFirst.vcxproj -> D:\LearnOpenGl\LearnProject\LearnOpenGlFirst\x64\Debug\LearnOpenGlFirst.exe
   LearnOpenGlFirst.vcxproj -> D:\LearnOpenGl\LearnProject\LearnOpenGlFirst\x64\Debug\LearnOpenGlFirst.pdb (Partial PDB)
