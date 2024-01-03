@@ -49,10 +49,10 @@
     <ClCompile Include="..\src\glad.c">
       <Filter>glfw</Filter>
     </ClCompile>
-    <ClCompile Include="blending_sorted.cpp">
+    <ClCompile Include="FaceCulling.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="FaceCulling.cpp">
+    <ClCompile Include="CubeMapRefraction.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

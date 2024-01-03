@@ -15,7 +15,8 @@ vertices[0], // 顶点1
 vertices[1], // 顶点2
 vertices[2], // 顶点3
 // 逆时针
-vertices[0], // 顶点1
+
+
 vertices[2], // 顶点3
 vertices[1]  // 顶点2
 };
